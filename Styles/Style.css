@@ -39,7 +39,7 @@ body{
      display: flex;
      align-items: center;
      justify-content: space-between;
-     gap: 82px;
+     gap: 90px;
      
 }
       
@@ -96,8 +96,13 @@ body{
     height: 532px;
     flex-shrink: 0;
 }
+
+.img__decoracao{
+    width: 50%;
+    flex-shrink: 0;
+}
 .rodape{
-    padding: 24px;
+    padding: 25px;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;
